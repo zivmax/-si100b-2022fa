@@ -1,0 +1,1 @@
+Polynomial([10,2,5])*Polynomial([1,8,0,10])
